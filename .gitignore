@@ -1,0 +1,19 @@
+.DS_Store
+demo-1/node_modules/
+demo-2/node_modules/
+demo-3/node_modules/
+demo-1/dist/
+demo-2/dist/
+demo-3/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
